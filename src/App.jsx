@@ -1,6 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 
+
+import styled from 'styled-components'
+
+const Title = styled.h1`
+    
+`
+
+
 function App() {
   return (
     <div className="App">
